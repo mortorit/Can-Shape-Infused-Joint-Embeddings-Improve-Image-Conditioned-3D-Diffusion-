@@ -1,0 +1,2 @@
+from .shape_transformer import ShapeTransformer
+from .vision_transformer import vit_deit_base_distilled_patch16_224, vit_deit_tiny_distilled_patch16_224
